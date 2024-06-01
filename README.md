@@ -5,7 +5,8 @@ just a blox fruits rolling system
 # Glitches
 This is not fully released, so you can find this glitches:
 
-Inventory Glitch (btw there is no saving inventory system in "infinite blox fruits roll")
+# Inventory Glitch 
+(btw there is no saving inventory system in "infinite blox fruits roll")
 
 ![python_D2fuLHs2PT](https://github.com/BloxFruitsGuy/Blox-Fruits-Roll/assets/171403526/09791273-1947-4228-b6fc-3903367077bf)
 
